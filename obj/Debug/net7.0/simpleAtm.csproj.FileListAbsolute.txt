@@ -1,0 +1,5 @@
+/Users/Zia/Desktop/SimpleATM/simpleAtm/obj/Debug/net7.0/simpleAtm.csproj.AssemblyReference.cache
+/Users/Zia/Desktop/SimpleATM/simpleAtm/obj/Debug/net7.0/simpleAtm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Zia/Desktop/SimpleATM/simpleAtm/obj/Debug/net7.0/simpleAtm.AssemblyInfoInputs.cache
+/Users/Zia/Desktop/SimpleATM/simpleAtm/obj/Debug/net7.0/simpleAtm.AssemblyInfo.cs
+/Users/Zia/Desktop/SimpleATM/simpleAtm/obj/Debug/net7.0/simpleAtm.csproj.CoreCompileInputs.cache
