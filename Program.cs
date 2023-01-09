@@ -27,7 +27,7 @@ public class cardHolder
     }
     public String getFirstName()
     {
-        return firstName
+        return firstName;
     }
     public String getLastName()
     {
@@ -65,7 +65,7 @@ public class cardHolder
             Console.WriteLine("Please choose from one of the options...");
             Console.WriteLine("1. Deposit");
             Console.WriteLine("2. Withdraw");
-            Console.WriteLine("3. Show Balance")
+            Console.WriteLine("3. Show Balance");
             Console.WriteLine("4. Exit");
         }
 
